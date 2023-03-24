@@ -1,0 +1,1 @@
+Import this .kbe file after installing KbdEdit (Personal)
